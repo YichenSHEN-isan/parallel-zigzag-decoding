@@ -149,4 +149,4 @@ J. Chen, Y. Shen, and C. Wan Sung, "A New Shift-Add Secret Sharing Scheme for Pa
 
 ## License
 
-TBD.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
